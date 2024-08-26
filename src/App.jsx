@@ -91,7 +91,7 @@ function App() {
             {convertedAmount > 0 && (
               <button
                 type="button"
-                className="w-full mt-4 bg-gray-400 text-white px-4 py-3 rounded-lg hover:bg-gray-500 transition-colors"
+                className="w-full bg-blue-600 text-white px-4 py-3 rounded-lg hover:bg-blue-700 transition-colors"
                 onClick={resetForm}
               >
                 Another Currency
